@@ -1,3 +1,9 @@
 numpy
 pandas
+<<<<<<< HEAD
 matplotlib
+=======
+matplotlib
+statsmodels
+scikit-learn
+>>>>>>> 06de50851462f848eb4fe6c75e4cbfd99759bd35
